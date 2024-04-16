@@ -9,7 +9,7 @@
 ## 4_Machine_Learning_Algorithms.ipynb
 This is a python notebook containing 4 different machine learning models that we used to predict whether or not a crime was violent, It also contains a list of the feature importances that we got from the Random Forest
 
-## `Case Study Presentation.pdf`
+## \`Case Study Presentation.pdf\`
 This file contains the presentation slides that we used when presenting our results
 
 ## Time_Series_Model.R
