@@ -1,5 +1,5 @@
 # Chicago Crime Analysis
-
+The purpose of this analysis is to find factors that influence violent crimes in the 11th district of the chicago police department. 
 ## Data
 - A file containing the all of the crimes from the Chicago Police Department district 11 since 2010
 - A file containing the daily weather readings in Chicago since 2010
